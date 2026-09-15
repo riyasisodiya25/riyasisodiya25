@@ -22,20 +22,6 @@ I enjoy taking an idea that starts as *"what if we built this?"* and turning it 
 
 ---
 
-## 🔨 What I'm Building
-
-### 🔐 CyberVal
-
-My current focus is **CyberVal**, an AI-driven cybersecurity platform that goes beyond simply identifying vulnerabilities.
-
-The idea is to translate technical cyber risks into something businesses can understand:
-
-**How much could this vulnerability actually cost?**
-
-It combines cybersecurity analysis, AI, data, and financial risk quantification to connect technical security problems with real-world business impact.
-
----
-
 ## 💻 My Toolkit
 
 **Languages**
