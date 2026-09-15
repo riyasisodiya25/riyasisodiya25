@@ -73,18 +73,6 @@ I'm constantly experimenting with different areas of development, but right now 
 
 ---
 
-## 📂 Things I've Built
-
-| Project | What it is |
-|--------|------------|
-| 🔐 **CyberVal** | Cybersecurity risk analysis with financial impact |
-| 🛡️ **CCIF** | Full-stack collaborative application |
-| 🌐 **Web Projects** | React-based web development experiments |
-
-More experiments are always in progress. 👀
-
----
-
 ## 💭 How I Like to Work
 
 I learn best by **building**.
@@ -94,12 +82,6 @@ Instead of trying to know everything before starting, I like getting my hands di
 There's usually a lot of:
 
 `Idea → Build → Break → Debug → Learn → Repeat`
-
----
-
-## 🎯 Where I'm Headed
-
-I'm working towards becoming a developer who can comfortably move between **software engineering, cybersecurity, and AI** — and eventually use that combination to build products that solve meaningful problems.
 
 ---
 
